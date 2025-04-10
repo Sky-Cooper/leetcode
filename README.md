@@ -1,0 +1,1 @@
+this reposetory is dedicated to solving different types of algorythem across different platforms such as leetcode , harker rank ... , you gonna find diffrent layers of difficulties within the presented algorythmes (normal , medium , high)
